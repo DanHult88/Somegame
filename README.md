@@ -1,2 +1,2 @@
 # Somegame
-New project
+New project Where i want to showcase some sort of game.
